@@ -11,7 +11,7 @@ public class ArrowsMain
 		theGUI.setSize(500, 500);
 		theGUI.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		ArrowsPanel panel1 = new ArrowsPanel(Color.white, "Hello");
+		ArrowsPanel panel1 = new ArrowsPanel(Color.green, "Hello");
 		
 		Container pane = theGUI.getContentPane();
 		
